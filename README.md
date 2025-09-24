@@ -39,7 +39,7 @@ This dataset can be used for:
 
 ### 1. Clone the repository
 ```bash
-git clone [https://github.com/username/DSA_utd19.git](https://github.com/hiraeth12/DSA_utd19-madrid.git)
+git clone https://github.com/hiraeth12/DSA_utd19-madrid.git
 ```
 
 ### 2. Change Directory
