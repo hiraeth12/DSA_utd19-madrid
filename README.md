@@ -1,9 +1,8 @@
 # Data Science and Analysis Project
 
-## Dataset Description: `utd_19`
 
 **Dataset Name:** `utd_19`  
-**Size:** 5,070,083 rows × 8 columns 
+**Size:** 5,070,083 rows × 8 columns <br>
 **City** : Madrid 
 
 ---
@@ -40,12 +39,12 @@ This dataset can be used for:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/username/utd_19.git
+git clone [https://github.com/username/DSA_utd19.git](https://github.com/hiraeth12/DSA_utd19-madrid.git)
 ```
 
 ### 2. Change Directory
 ```bash
-cd folder
+cd DSA_utd19
 ```
 
 ### 3. Create Virtual Environment
